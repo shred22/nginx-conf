@@ -1,0 +1,6 @@
+https://medium.com/@TimvanBaarsen/how-to-connect-to-the-docker-host-from-inside-a-docker-container-112b4c71bc66
+
+apart from doing the above steps you need to run below command
+
+sudo ufw allow 8080
+sudo ufw allow 12345
